@@ -1,0 +1,296 @@
+donem20 Top 10 without stopword:
+1 -gram:
+(bir,)             115404
+(Sayın,)            69994
+(a,)                45381
+(BAŞKAN,)           35375
+(olarak,)           34716
+(Milletvekili,)     33764
+(Bu,)               32977
+(e,)                31056
+(i,)                29089
+(n,)                26724
+dtype: int64
+2 -gram:
+(Türkiye, Büyük)            15226
+(Büyük, Millet)             15134
+(Sayın, Başkan)             14437
+(Millet, Meclisi)           11859
+(soru, önergesi)            10679
+(sıralarından, alkışlar)     9781
+(BAŞKAN, Sayın)              8523
+(Meclisi, Başkanlığına)      7972
+(yazılı, soru)               7757
+(a, r)                       6943
+dtype: int64
+3 -gram:
+(Türkiye, Büyük, Millet)            14873
+(Büyük, Millet, Meclisi)            11677
+(Millet, Meclisi, Başkanlığına)      7867
+(Başkanlığa, geliş, tarihi)          6043
+(yazılı, soru, önergesi)             6019
+(sözlü, soru, önergesi)              3729
+(Sayın, Başkan, değerli)             3568
+(Kabul, edenler, Etmeyenler)         3350
+(sıralarından, alkışlar, BAŞKAN)     3238
+(sunuyorum, Kabul, edenler)          3226
+dtype: int64
+donem21 Top 10 without stopword:
+1 -gram:
+(bir,)                216872
+(Sayın,)              115746
+(BAŞKAN,)              62008
+(Bu,)                  60724
+(olarak,)              56008
+(Milletvekili,)        52079
+(olan,)                42157
+(Türkiye,)             37215
+(ilişkin,)             35245
+(milletvekilleri,)     31279
+dtype: int64
+2 -gram:
+(Sayın, Başkan)             27118
+(sıralarından, alkışlar)    18194
+(Büyük, Millet)             17993
+(Türkiye, Büyük)            17872
+(soru, önergesi)            16734
+(Millet, Meclisi)           13156
+(BAŞKAN, Sayın)             11459
+(Başkanlığa, geliş)         11165
+(geliş, tarihi)             11135
+(yazılı, soru)               9978
+dtype: int64
+3 -gram:
+(Türkiye, Büyük, Millet)              17725
+(Büyük, Millet, Meclisi)              13099
+(Başkanlığa, geliş, tarihi)           11037
+(Sayın, Başkan, değerli)               9534
+(yazılı, soru, önergesi)               9010
+(Başkan, değerli, milletvekilleri)     8098
+(Millet, Meclisi, Başkanlığına)        7427
+(sıralarından, alkışlar, BAŞKAN)       7066
+(sözlü, soru, önergesi)                6599
+(Partisi, Grubu, adına)                6288
+dtype: int64
+donem22 Top 10 without stopword:
+1 -gram:
+(bir,)             374818
+(Sayın,)           188986
+(Bu,)               98675
+(BAŞKAN,)           98138
+(olarak,)           89637
+(Milletvekili,)     86952
+(ilişkin,)          68306
+(Kabul,)            61219
+(olan,)             60993
+(ilgili,)           54694
+dtype: int64
+2 -gram:
+(Sayın, Başkan)             39608
+(soru, önergesi)            37464
+(yazılı, soru)              30541
+(Başkanlığa, geliş)         28578
+(geliş, tarihi)             28570
+(sıralarından, alkışlar)    24719
+(AK, Parti)                 24005
+(Kabul, edenler)            23813
+(BAŞKAN, Sayın)             23791
+(Büyük, Millet)             23608
+dtype: int64
+3 -gram:
+(yazılı, soru, önergesi)          30339
+(Başkanlığa, geliş, tarihi)       28555
+(Türkiye, Büyük, Millet)          23240
+(Bakanından, yazılı, soru)        22229
+(sunuyorum, Kabul, edenler)       17428
+(oylarınıza, sunuyorum, Kabul)    16701
+(Sayın, Başkan, değerli)          15900
+(AK, Parti, sıralarından)         15672
+(Büyük, Millet, Meclisi)          14820
+(edenler, Kabul, etmeyenler)      14747
+dtype: int64
+donem23 Top 10 without stopword:
+1 -gram:
+(bir,)             340347
+(Sayın,)           115682
+(Bu,)               93991
+(Milletvekili,)     90624
+(olarak,)           76266
+(Sayn,)             73582
+(BAŞKAN,)           61754
+(Kabul,)            58301
+(olan,)             56259
+(var,)              52751
+dtype: int64
+2 -gram:
+(Sayın, Başkan)             25514
+(Kabul, edenler)            22828
+(soru, önergesi)            22582
+(Sayn, Bakan)               20503
+(yazılı, soru)              18869
+(Millet, Meclisi)           16821
+(Büyük, Millet)             15950
+(sıralarından, alkışlar)    15932
+(Türkiye, Büyük)            15794
+(Kabul, etmeyenler)         15450
+dtype: int64
+3 -gram:
+(yazılı, soru, önergesi)        18770
+(Türkiye, Büyük, Millet)        15787
+(Başkanlığa, geliş, tarihi)     15308
+(edenler, Kabul, etmeyenler)    15259
+(Kabul, edenler, Kabul)         14949
+(Bakanından, yazılı, soru)      13172
+(sunuyorum, Kabul, edenler)     13031
+(Mikrofon, otomatik, cihaz)     11324
+(Büyük, Millet, Meclisi)        11116
+(Bakanla, geli, tarihi)         10249
+dtype: int64
+donem24 Top 10 without stopword:
+1 -gram:
+(bir,)             402422
+(Sayın,)           214362
+(Milletvekili,)    204509
+(ilişkin,)         124905
+(BAŞKAN,)          116355
+(Bu,)               96805
+(önergesi,)         87758
+(soru,)             86537
+(İstanbul,)         83013
+(olarak,)           82075
+dtype: int64
+2 -gram:
+(soru, önergesi)            80603
+(yazılı, soru)              69533
+(Sayın, Başkan)             54087
+(Bakanından, yazılı)        53177
+(Başkanlığa, geliş)         51173
+(geliş, tarihi)             51153
+(İstanbul, Milletvekili)    38014
+(sıralarından, alkışlar)    35565
+(Büyük, Millet)             32357
+(Türkiye, Büyük)            32122
+dtype: int64
+3 -gram:
+(yazılı, soru, önergesi)              69355
+(Bakanından, yazılı, soru)            53175
+(Başkanlığa, geliş, tarihi)           51144
+(Türkiye, Büyük, Millet)              32083
+(Büyük, Millet, Meclisi)              23777
+(Sayın, Başkan, değerli)              15515
+(AK, PARTİ, sıralarından)             14788
+(sıralarından, alkışlar, BAŞKAN)      14407
+(Başkan, değerli, milletvekilleri)    14163
+(CHP, sıralarından, alkışlar)         13683
+dtype: int64
+donem25 Top 10 without stopword:
+1 -gram:
+(bir,)             1990
+(Sayın,)           1051
+(Türkiye,)          545
+(BAŞKAN,)           486
+(sıralarından,)     484
+(Milletvekili,)     435
+(Başkan,)           420
+(olarak,)           419
+(Bu,)               418
+(İstanbul,)         373
+dtype: int64
+2 -gram:
+(Büyük, Millet)             340
+(Türkiye, Büyük)            340
+(sıralarından, alkışlar)    318
+(Sayın, Başkan)             311
+(AK, PARTİ)                 305
+(PARTİ, sıralarından)       258
+(Millet, Meclisi)           215
+(BAŞKAN, Sayın)             203
+(İDRİS, BALUKEN)            121
+(AHMET, AYDIN)              120
+dtype: int64
+3 -gram:
+(Türkiye, Büyük, Millet)            339
+(AK, PARTİ, sıralarından)           255
+(Büyük, Millet, Meclisi)            214
+(PARTİ, sıralarından, alkışlar)     150
+(İDRİS, BALUKEN, Diyarbakır)        111
+(Büyük, Millet, Meclisinin)          84
+(Milliyetçi, Hareket, Partisi)       78
+(Cumhuriyet, Halk, Partisi)          73
+(BAŞKAN, Sayın, milletvekilleri)     71
+(CHP, sıralarından, alkışlar)        68
+dtype: int64
+donem26 Top 10 without stopword:
+1 -gram:
+(bir,)             301653
+(Sayın,)           164119
+(BAŞKAN,)           92864
+(Bu,)               65074
+(olarak,)           57755
+(Milletvekili,)     57611
+(Başkan,)           53685
+(var,)              49222
+(olan,)             44411
+(İstanbul,)         43283
+dtype: int64
+2 -gram:
+(Sayın, Başkan)             42427
+(sıralarından, alkışlar)    31195
+(BAŞKAN, Sayın)             19371
+(AK, PARTİ)                 19316
+(Teşekkür, ederim)          18907
+(ilişkin, açıklaması)       18360
+(Büyük, Millet)             17872
+(Türkiye, Büyük)            17787
+(Kabul, edenler)            16026
+(BAŞKAN, Teşekkür)          15430
+dtype: int64
+3 -gram:
+(Türkiye, Büyük, Millet)              17755
+(Teşekkür, ederim, Sayın)             12404
+(Büyük, Millet, Meclisi)              12173
+(CHP, sıralarından, alkışlar)         12147
+(Yılı, Merkezî, Yönetim)              11593
+(AK, PARTİ, sıralarından)             11459
+(sıralarından, alkışlar, BAŞKAN)      11328
+(Sayın, Başkan, değerli)              10674
+(Başkan, değerli, milletvekilleri)     9912
+(edenler, Kabul, etmeyenler)           9344
+dtype: int64
+donem27 Top 10 without stopword:
+1 -gram:
+(bir,)             235649
+(Sayın,)           114118
+(BAŞKAN,)           70584
+(Bu,)               56392
+(Milletvekili,)     50787
+(olarak,)           46624
+(Başkan,)           44868
+(var,)              42838
+(olan,)             40158
+(sıralarından,)     35669
+dtype: int64
+2 -gram:
+(Sayın, Başkan)             33800
+(sıralarından, alkışlar)    31125
+(ilişkin, açıklaması)       21568
+(AK, PARTİ)                 18435
+(Mikrofon, otomatik)        17059
+(tarafından, kapatıldı)     17059
+(otomatik, cihaz)           17052
+(cihaz, tarafından)         17043
+(PARTİ, sıralarından)       15273
+(BAŞKAN, Sayın)             14700
+dtype: int64
+3 -gram:
+(Mikrofon, otomatik, cihaz)         17052
+(otomatik, cihaz, tarafından)       17043
+(cihaz, tarafından, kapatıldı)      17037
+(PARTİ, sıralarından, alkışlar)     13261
+(Türkiye, Büyük, Millet)            12984
+(tarafından, kapatıldı, BAŞKAN)     12487
+(CHP, sıralarından, alkışlar)       10497
+(Sayın, Başkan, değerli)            10472
+(Yılı, Merkezî, Yönetim)            10367
+(sıralarından, alkışlar, BAŞKAN)     9802
+dtype: int64
